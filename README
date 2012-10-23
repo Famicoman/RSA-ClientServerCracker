@@ -1,0 +1,6 @@
+README
+
+A threaded chat system with crude RSA encryption written in python.
+Client is a simple chat client, Server is a hybrid client/server (launch this one first), and Crack is a cracker for the RSA encryption keys.
+
+Code is buggy at best and can be launched with the makefiles.
